@@ -1,1 +1,1 @@
-# maintainence-page
+# maintenance-page
